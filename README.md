@@ -1,2 +1,2 @@
 # HW8
- Find the birthdays of colleague
+ Find the birthdays of colleagues
